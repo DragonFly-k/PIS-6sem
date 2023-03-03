@@ -67,7 +67,6 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="static\Http4.html" />
     <Content Include="static\Http5.html" />
     <Content Include="static\Http6.html" />
     <Content Include="Web.config" />

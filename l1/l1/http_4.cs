@@ -21,19 +21,21 @@ namespace l1
 
         public void ProcessRequest(HttpContext context)
         {
-            //разместите здесь вашу реализацию обработчика.
-            var x = context.Request.Params.Get("x");
-            var y = context.Request.Params.Get("y");
-            var method = context.Request.HttpMethod;
-            switch (method.ToUpper())
+            context.Response.AddHeader("Content-Type", "text/html");
+
+            if (context.Request.HttpMethod == "POST")
             {
-                case "GET":
-                    context.Response.WriteFile("D:\\универ\\ПИС\\лаба\\l1\\l1\\static\\Http4.html");
-                    break;
-                case "POST":
-                    context.Response.Write(int.Parse(x) +" + "+ int.Parse(y) +" = "+(int.Parse(x) + int.Parse(y)));
-                    break;
-            }         
+                    var x = int.Parse(context.Request.Form["x"]);
+                    var y = int.Parse(context.Request.Form["y"]);
+                    var sum = x + y;
+                    context.Response.Write(sum);
+            }
+            else
+            {
+                context.Response.StatusCode = 405;
+                context.Response.AddHeader("Content-Type", "text/html");
+                context.Response.Write("<h2>Only POST method allowed.</h2>");
+            }
         }
 
         #endregion

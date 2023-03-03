@@ -1,0 +1,2 @@
+D:\универ\ПИС\лаба\l4\l4\obj\Debug\l4.csproj.AssemblyReference.cache
+D:\универ\ПИС\лаба\l4\l4\obj\Debug\l4.csproj.CoreCompileInputs.cache

@@ -19,13 +19,8 @@
             request.open('POST', '/mul', true);
             request.setRequestHeader('Content-type', 'application/x-www-form-urlencoded')
             request.onreadystatechange = () => {
-                if (request.readyState === 4) {
-                    if (request.status === 200) {
-                        document.getElementById('res').value = request.responseText;
-                    } else {
-                        alert(request.status);
-                    }
-                }
+                if (request.status === 200) document.getElementById('res').value = request.responseText;
+                else alert(request.status);  
             };
             request.send(body);
         }
