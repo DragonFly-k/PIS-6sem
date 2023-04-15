@@ -9,24 +9,42 @@
 <head>
     <meta name="viewport" content="width=device-width" />
     <title>Index</title>
+    <style type="text/css">
+        * {
+            font-size: 14pt;
+            margin-top: 5px;
+        }
+
+        th {
+            text-align: center;
+            
+        }
+
+    </style>
 </head>
 <body>
     <div>
         <table>
             <tr>
-                <td><p>ФИО</p></td>
-                <td><p>Телефон</p></td>
+                <th><p>Фамилия</p></th>
+                <td></td>
+                <th><p>Телефон</p></th>
+                <td></td>
+                <td></td>
                 <td></td>
                 <td></td>
             </tr>
             @foreach (var b in ViewBag.Objects)
             {
-                <tr>
-                    <td><p>@b.FIO</p></td>
-                    <td><p>@b.Telephone</p></td>
-                    <td><p><a href="/Dict/Update?id=@b.Id">Изменить</a></p></td>
-                    <td><p><a href="/Dict/Delete?id=@b.Id">Удалить</a></p></td>
-                </tr>
+        <tr>
+            <td><p>@b.FIO</p></td>
+            <td></td>
+            <td><p>@b.Telephone</p></td>
+            <td></td>
+            <td><p><a href="/Dict/Update?id=@b.Id">Изменить</a></p></td>
+            <td></td>
+            <td><p><a href="/Dict/Delete?id=@b.Id">Удалить</a></p></td>
+        </tr>
             }
         </table>
     </div>

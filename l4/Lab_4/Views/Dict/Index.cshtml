@@ -1,0 +1,57 @@
+﻿@using Lab_4.Models
+@{
+    Layout = null;
+    int i = 0;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+    <style type="text/css">
+        * {
+            font-size: 14pt;
+            margin-top: 5px;
+        }
+
+        th {
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <div>
+        <table>
+            <tr>
+                <th><p>Фамилия</p></th>
+                <td></td>
+                <th><p>Телефон</p></th>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            @foreach (Lab_4.Models.Directory d in ViewBag.data)
+            {
+                <tr>
+                    <td><p>@d.last_name</p></td>
+                    <td></td>
+                    <td><p>@d.phone_number</p></td>
+                    <td></td>
+                    @{
+                        string update_ref = "/Dict/Update?last_name=" + d.last_name + "&phone_number=" + @d.phone_number + "&id=" + i;
+                        string delete_ref = "/Dict/Delete?last_name=" + d.last_name + "&phone_number=" + @d.phone_number + "&id=" + i;
+                        i++;
+                    }
+                    <td><p><a href=@update_ref>Изменить</a></p></td>
+                    <td></td>
+                    <td><p><a href=@delete_ref>Удалить</a></p></td>
+                </tr>
+            }
+        </table>
+        <p><a href="/Dict/Add">Добавить</a></p>
+    </div>
+</body>
+</html>

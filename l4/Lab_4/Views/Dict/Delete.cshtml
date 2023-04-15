@@ -1,0 +1,36 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Delete</title>
+    <style type="text/css">
+        * {
+            font-size: 14pt;
+            margin-top: 5px;
+        }
+
+        th {
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <div>
+        <h3>Удалить</h3>
+        @{
+            string delete_href = "/Dict/DeleteSave";
+        }
+        <form method="post" action=@delete_href>
+            <input type="text" name="last_name" id="last_name" placeholder="last_name" value="@ViewBag.last_name" />
+            <input type="text" name="phone_number" id="phone_number" placeholder="phone_number" value="@ViewBag.phone_number" />
+            <input type="submit" value="Удалить" />
+        </form>
+
+    </div>
+</body>
+</html>

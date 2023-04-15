@@ -1,0 +1,33 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Update</title>
+    <style type="text/css">
+        * {
+            font-size: 14pt;
+            margin-top: 5px;
+        }
+
+        th {
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <div>
+        <h3>Изменить</h3>
+       <form method="post" action="/Dict/UpdateSave">
+
+            <input type="text" name="last_name" id="last_name" placeholder="last_name" value="@ViewBag.last_name" />
+            <input type="text" name="phone_number" id="phone_number" placeholder="phone_number" value="@ViewBag.phone_number" />
+            <input type="submit" value="Изменить" />
+        </form>
+    </div>
+</body>
+</html>

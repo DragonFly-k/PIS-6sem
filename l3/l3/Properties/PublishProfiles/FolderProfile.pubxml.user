@@ -5,14 +5,14 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
 <Project>
   <PropertyGroup>
     <_PublishTargetUrl>D:\универ\ПИС\лаба\l3\l3\bin\app.publish\</_PublishTargetUrl>
-    <History>True|2023-02-25T19:53:38.2659227Z;</History>
+    <History>True|2023-03-12T19:48:42.0753716Z;</History>
   </PropertyGroup>
   <ItemGroup>
     <File Include="bin/l3.dll">
-      <publishTime>02/25/2023 22:53:01</publishTime>
+      <publishTime>03/12/2023 22:48:25</publishTime>
     </File>
     <File Include="bin/l3.pdb">
-      <publishTime>02/25/2023 22:53:01</publishTime>
+      <publishTime>03/12/2023 22:48:25</publishTime>
     </File>
     <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
       <publishTime>09/05/2018 16:10:50</publishTime>
@@ -210,22 +210,22 @@ https://go.microsoft.com/fwlink/?LinkID=208121.
       <publishTime>02/25/2023 09:52:59</publishTime>
     </File>
     <File Include="user.json">
-      <publishTime>02/25/2023 22:38:24</publishTime>
+      <publishTime>03/12/2023 22:42:21</publishTime>
     </File>
     <File Include="Views/Dict/Add.cshtml">
-      <publishTime>02/25/2023 22:18:40</publishTime>
+      <publishTime>03/12/2023 22:46:08</publishTime>
     </File>
     <File Include="Views/Dict/Delete.cshtml">
-      <publishTime>02/25/2023 22:27:09</publishTime>
+      <publishTime>03/12/2023 22:46:43</publishTime>
     </File>
     <File Include="Views/Dict/Index.cshtml">
-      <publishTime>02/25/2023 22:27:33</publishTime>
+      <publishTime>03/12/2023 22:44:45</publishTime>
     </File>
     <File Include="Views/Dict/NotFound.cshtml">
       <publishTime>02/25/2023 22:28:04</publishTime>
     </File>
     <File Include="Views/Dict/Update.cshtml">
-      <publishTime>02/25/2023 22:28:32</publishTime>
+      <publishTime>03/12/2023 22:47:40</publishTime>
     </File>
     <File Include="Views/web.config">
       <publishTime>02/25/2023 09:52:59</publishTime>

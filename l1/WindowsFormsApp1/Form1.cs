@@ -21,6 +21,7 @@ namespace WindowsFormsApp1
         {
             var x = textBox1.Text;
             var y = textBox2.Text;
+
             var formContent = new FormUrlEncodedContent(new[]{new KeyValuePair<string, string>("x", x),new KeyValuePair<string, string>("y", y)});
 
             HttpClient client = new HttpClient();

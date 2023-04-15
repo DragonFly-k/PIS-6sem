@@ -17,12 +17,6 @@ namespace l3.Controllers
             return View();
         }
 
-        public ActionResult Details(int id)
-        {
-            ViewBag.Object = db.Find(id);
-            return View();
-        }
-
         public ActionResult Add()
         {
             return View();
