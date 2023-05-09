@@ -13,7 +13,7 @@ namespace b.Controllers
         static DateTime date = DateTime.Now;
 
         [HttpGet]
-        [OutputCache(Location = OutputCacheLocation.Any, Duration = 10)] // 5
+        [OutputCache(Location = OutputCacheLocation.Any, Duration = 5)] 
         public ActionResult AD()
         {
             date = DateTime.Now;
@@ -21,7 +21,7 @@ namespace b.Controllers
         }
 
         [HttpPost]
-        [OutputCache(Location = OutputCacheLocation.Any, Duration = 14, VaryByParam = "x,y")] // 7
+        [OutputCache(Location = OutputCacheLocation.Any, Duration = 7, VaryByParam = "x,y")] 
         public ActionResult AP()
         {
             var x = Request.QueryString.Get("x");

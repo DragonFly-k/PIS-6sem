@@ -16,14 +16,13 @@ namespace b.Controllers
 
         public class AAAtribute : FilterAttribute, IActionFilter
         {
-            public void OnActionExecuted(ActionExecutedContext filterContext)
-            {
-                filterContext.HttpContext.Response.Write("<b>OnActionExecuted</b>");
-            }
-
             public void OnActionExecuting(ActionExecutingContext filterContext)
             {
                 filterContext.HttpContext.Response.Write("<b>OnActionExecuting</b>");
+            }
+            public void OnActionExecuted(ActionExecutedContext filterContext)
+            {
+                filterContext.HttpContext.Response.Write("<b>OnActionExecuted</b>");
             }
         }
 
@@ -36,14 +35,13 @@ namespace b.Controllers
 
         public class ARAtribute : FilterAttribute, IResultFilter
         {
-            public void OnResultExecuted(ResultExecutedContext filterContext)
-            {
-                filterContext.HttpContext.Response.Write("<b>OnResultExecuted</b>");
-            }
-
             public void OnResultExecuting(ResultExecutingContext filterContext)
             {
                 filterContext.HttpContext.Response.Write("<b>OnResultExecuting</b>");
+            }
+            public void OnResultExecuted(ResultExecutedContext filterContext)
+            {
+                filterContext.HttpContext.Response.Write("<b>OnResultExecuted</b>");
             }
         }
 
