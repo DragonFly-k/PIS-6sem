@@ -1,0 +1,21 @@
+﻿@{
+    ViewBag.Title = "FIT/Index";
+}
+
+<div>
+    <h2>FIT/Index</h2>
+
+    @if (User.IsInRole("Employer"))
+    {
+        @Html.ActionLink("FIT/FIT_IS", "FIT_IS")
+        <br/>
+        @Html.ActionLink("FIT/FIT_PI", "FIT_PI")
+        <br/>
+        @Html.ActionLink("FIT/FIT_ID", "FIT_ID")
+        <br/>
+    }
+
+
+    @Html.ActionLink("BSTU/Index", "Index", "BSTU") <br/>
+
+</div>

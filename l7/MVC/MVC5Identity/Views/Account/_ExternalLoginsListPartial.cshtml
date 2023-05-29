@@ -1,0 +1,16 @@
+﻿@using Microsoft.Owin.Security
+@model MvcIdentityLab.Models.ExternalLoginListViewModel
+
+@{
+    var loginProviders = Context.GetOwinContext().Authentication.GetExternalAuthenticationTypes();
+    using (Html.BeginForm("ExternalLogin", "Account", new { Model.ReturnUrl }))
+    {
+        @Html.AntiForgeryToken()
+        <div id="socialLoginList">
+            @foreach (var p in loginProviders)
+            {
+                <button type="submit" id="@p.AuthenticationType" name="provider" value="@p.AuthenticationType" title="@p.Caption">@p.AuthenticationType</button>
+            }
+        </div> 
+    }
+}

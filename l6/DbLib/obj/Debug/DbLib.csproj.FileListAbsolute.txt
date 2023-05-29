@@ -1,0 +1,46 @@
+E:\Education\6semester\Asp\NotMyLabs\ASP-6-sem-\Лабы\Lab6\DbLib\bin\Debug\DbLib.dll.config
+E:\Education\6semester\Asp\NotMyLabs\ASP-6-sem-\Лабы\Lab6\DbLib\bin\Debug\DbLib.dll
+E:\Education\6semester\Asp\NotMyLabs\ASP-6-sem-\Лабы\Lab6\DbLib\bin\Debug\DbLib.pdb
+E:\Education\6semester\Asp\NotMyLabs\ASP-6-sem-\Лабы\Lab6\DbLib\bin\Debug\EntityFramework.dll
+E:\Education\6semester\Asp\NotMyLabs\ASP-6-sem-\Лабы\Lab6\DbLib\bin\Debug\EntityFramework.SqlServer.dll
+E:\Education\6semester\Asp\NotMyLabs\ASP-6-sem-\Лабы\Lab6\DbLib\bin\Debug\Newtonsoft.Json.dll
+E:\Education\6semester\Asp\NotMyLabs\ASP-6-sem-\Лабы\Lab6\DbLib\bin\Debug\EntityFramework.xml
+E:\Education\6semester\Asp\NotMyLabs\ASP-6-sem-\Лабы\Lab6\DbLib\bin\Debug\EntityFramework.SqlServer.xml
+E:\Education\6semester\Asp\NotMyLabs\ASP-6-sem-\Лабы\Lab6\DbLib\bin\Debug\Newtonsoft.Json.xml
+E:\Education\6semester\Asp\NotMyLabs\ASP-6-sem-\Лабы\Lab6\DbLib\obj\Debug\DbLib.csproj.AssemblyReference.cache
+E:\Education\6semester\Asp\NotMyLabs\ASP-6-sem-\Лабы\Lab6\DbLib\obj\Debug\DbLib.csproj.CoreCompileInputs.cache
+E:\Education\6semester\Asp\NotMyLabs\ASP-6-sem-\Лабы\Lab6\DbLib\obj\Debug\DbLib.csproj.CopyComplete
+E:\Education\6semester\Asp\NotMyLabs\ASP-6-sem-\Лабы\Lab6\DbLib\obj\Debug\DbLib.dll
+E:\Education\6semester\Asp\NotMyLabs\ASP-6-sem-\Лабы\Lab6\DbLib\obj\Debug\DbLib.pdb
+E:\Education\6semester\Asp\MyLabs\Lab6\DbLib\bin\Debug\DbLib.dll.config
+E:\Education\6semester\Asp\MyLabs\Lab6\DbLib\bin\Debug\DbLib.dll
+E:\Education\6semester\Asp\MyLabs\Lab6\DbLib\bin\Debug\DbLib.pdb
+E:\Education\6semester\Asp\MyLabs\Lab6\DbLib\bin\Debug\EntityFramework.dll
+E:\Education\6semester\Asp\MyLabs\Lab6\DbLib\bin\Debug\EntityFramework.SqlServer.dll
+E:\Education\6semester\Asp\MyLabs\Lab6\DbLib\bin\Debug\Newtonsoft.Json.dll
+E:\Education\6semester\Asp\MyLabs\Lab6\DbLib\bin\Debug\EntityFramework.xml
+E:\Education\6semester\Asp\MyLabs\Lab6\DbLib\bin\Debug\EntityFramework.SqlServer.xml
+E:\Education\6semester\Asp\MyLabs\Lab6\DbLib\bin\Debug\Newtonsoft.Json.xml
+E:\Education\6semester\Asp\MyLabs\Lab6\DbLib\obj\Debug\DbLib.csproj.AssemblyReference.cache
+E:\Education\6semester\Asp\MyLabs\Lab6\DbLib\obj\Debug\DbLib.csproj.CoreCompileInputs.cache
+E:\Education\6semester\Asp\MyLabs\Lab6\DbLib\obj\Debug\DbLib.csproj.CopyComplete
+E:\Education\6semester\Asp\MyLabs\Lab6\DbLib\obj\Debug\DbLib.dll
+E:\Education\6semester\Asp\MyLabs\Lab6\DbLib\obj\Debug\DbLib.pdb
+E:\Education\6semester\Asp\MyLabs\Lab6\DbLib\bin\Debug\PhoneDictionaryLib.dll
+E:\Education\6semester\Asp\MyLabs\Lab6\DbLib\bin\Debug\PhoneDictionaryLib.pdb
+C:\Users\User\Desktop\Новая папка\asp\Lab6\DbLib\bin\Debug\DbLib.dll.config
+C:\Users\User\Desktop\Новая папка\asp\Lab6\DbLib\bin\Debug\DbLib.dll
+C:\Users\User\Desktop\Новая папка\asp\Lab6\DbLib\bin\Debug\DbLib.pdb
+C:\Users\User\Desktop\Новая папка\asp\Lab6\DbLib\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\Новая папка\asp\Lab6\DbLib\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\Новая папка\asp\Lab6\DbLib\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Desktop\Новая папка\asp\Lab6\DbLib\bin\Debug\PhoneDictionaryLib.dll
+C:\Users\User\Desktop\Новая папка\asp\Lab6\DbLib\bin\Debug\PhoneDictionaryLib.pdb
+C:\Users\User\Desktop\Новая папка\asp\Lab6\DbLib\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\Новая папка\asp\Lab6\DbLib\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\Новая папка\asp\Lab6\DbLib\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\Desktop\Новая папка\asp\Lab6\DbLib\obj\Debug\DbLib.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Новая папка\asp\Lab6\DbLib\obj\Debug\DbLib.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Новая папка\asp\Lab6\DbLib\obj\Debug\DbLib.csproj.CopyComplete
+C:\Users\User\Desktop\Новая папка\asp\Lab6\DbLib\obj\Debug\DbLib.dll
+C:\Users\User\Desktop\Новая папка\asp\Lab6\DbLib\obj\Debug\DbLib.pdb

@@ -1,0 +1,12 @@
+E:\Education\6semester\Asp\MyLabs\Lab6\PhoneDictionaryLib\bin\Debug\PhoneDictionaryLib.dll
+E:\Education\6semester\Asp\MyLabs\Lab6\PhoneDictionaryLib\bin\Debug\PhoneDictionaryLib.pdb
+E:\Education\6semester\Asp\MyLabs\Lab6\PhoneDictionaryLib\obj\Debug\PhoneDictionaryLib.csproj.AssemblyReference.cache
+E:\Education\6semester\Asp\MyLabs\Lab6\PhoneDictionaryLib\obj\Debug\PhoneDictionaryLib.csproj.CoreCompileInputs.cache
+E:\Education\6semester\Asp\MyLabs\Lab6\PhoneDictionaryLib\obj\Debug\PhoneDictionaryLib.dll
+E:\Education\6semester\Asp\MyLabs\Lab6\PhoneDictionaryLib\obj\Debug\PhoneDictionaryLib.pdb
+C:\Users\User\Desktop\Новая папка\asp\Lab6\PhoneDictionaryLib\bin\Debug\PhoneDictionaryLib.dll
+C:\Users\User\Desktop\Новая папка\asp\Lab6\PhoneDictionaryLib\bin\Debug\PhoneDictionaryLib.pdb
+C:\Users\User\Desktop\Новая папка\asp\Lab6\PhoneDictionaryLib\obj\Debug\PhoneDictionaryLib.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Новая папка\asp\Lab6\PhoneDictionaryLib\obj\Debug\PhoneDictionaryLib.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Новая папка\asp\Lab6\PhoneDictionaryLib\obj\Debug\PhoneDictionaryLib.dll
+C:\Users\User\Desktop\Новая папка\asp\Lab6\PhoneDictionaryLib\obj\Debug\PhoneDictionaryLib.pdb

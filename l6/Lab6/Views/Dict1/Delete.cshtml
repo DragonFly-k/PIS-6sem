@@ -1,0 +1,46 @@
+﻿@model PhoneDictionary.Phone
+
+@{
+    ViewBag.Title = "Delete";
+}
+
+@section Header
+{
+    <header>
+        <h4>Delete</h4>
+    </header>
+}
+
+<div>
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Name)
+
+            @Html.DisplayFor(model => model.Name)
+        </dt>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Number)
+       
+            @Html.DisplayFor(model => model.Number)
+        </dt>
+
+    </dl>
+
+    @using (Html.BeginForm())
+    {
+        <div class="form-actions no-color">
+            <input type="submit" value="Delete" class="btn btn-default" /> |
+            @Html.ActionLink("Back to List", "Index")
+        </div>
+    }
+</div>
+
+@section Footer
+{
+    <footer>
+        <h4>
+            <Footer></Footer>
+        </h4>
+    </footer>
+}

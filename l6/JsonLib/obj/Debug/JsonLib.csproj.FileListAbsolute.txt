@@ -1,0 +1,31 @@
+E:\Education\6semester\Asp\NotMyLabs\ASP-6-sem-\Лабы\Lab6\JsonLib\bin\Debug\JsonLib.dll
+E:\Education\6semester\Asp\NotMyLabs\ASP-6-sem-\Лабы\Lab6\JsonLib\bin\Debug\JsonLib.pdb
+E:\Education\6semester\Asp\NotMyLabs\ASP-6-sem-\Лабы\Lab6\JsonLib\bin\Debug\Newtonsoft.Json.dll
+E:\Education\6semester\Asp\NotMyLabs\ASP-6-sem-\Лабы\Lab6\JsonLib\bin\Debug\Newtonsoft.Json.xml
+E:\Education\6semester\Asp\NotMyLabs\ASP-6-sem-\Лабы\Lab6\JsonLib\obj\Debug\JsonLib.csproj.AssemblyReference.cache
+E:\Education\6semester\Asp\NotMyLabs\ASP-6-sem-\Лабы\Lab6\JsonLib\obj\Debug\JsonLib.csproj.CoreCompileInputs.cache
+E:\Education\6semester\Asp\NotMyLabs\ASP-6-sem-\Лабы\Lab6\JsonLib\obj\Debug\JsonLib.csproj.CopyComplete
+E:\Education\6semester\Asp\NotMyLabs\ASP-6-sem-\Лабы\Lab6\JsonLib\obj\Debug\JsonLib.dll
+E:\Education\6semester\Asp\NotMyLabs\ASP-6-sem-\Лабы\Lab6\JsonLib\obj\Debug\JsonLib.pdb
+E:\Education\6semester\Asp\MyLabs\Lab6\JsonLib\bin\Debug\JsonLib.dll
+E:\Education\6semester\Asp\MyLabs\Lab6\JsonLib\bin\Debug\JsonLib.pdb
+E:\Education\6semester\Asp\MyLabs\Lab6\JsonLib\bin\Debug\Newtonsoft.Json.dll
+E:\Education\6semester\Asp\MyLabs\Lab6\JsonLib\bin\Debug\Newtonsoft.Json.xml
+E:\Education\6semester\Asp\MyLabs\Lab6\JsonLib\obj\Debug\JsonLib.csproj.AssemblyReference.cache
+E:\Education\6semester\Asp\MyLabs\Lab6\JsonLib\obj\Debug\JsonLib.csproj.CoreCompileInputs.cache
+E:\Education\6semester\Asp\MyLabs\Lab6\JsonLib\obj\Debug\JsonLib.csproj.CopyComplete
+E:\Education\6semester\Asp\MyLabs\Lab6\JsonLib\obj\Debug\JsonLib.dll
+E:\Education\6semester\Asp\MyLabs\Lab6\JsonLib\obj\Debug\JsonLib.pdb
+E:\Education\6semester\Asp\MyLabs\Lab6\JsonLib\bin\Debug\PhoneDictionaryLib.dll
+E:\Education\6semester\Asp\MyLabs\Lab6\JsonLib\bin\Debug\PhoneDictionaryLib.pdb
+C:\Users\User\Desktop\Новая папка\asp\Lab6\JsonLib\bin\Debug\JsonLib.dll
+C:\Users\User\Desktop\Новая папка\asp\Lab6\JsonLib\bin\Debug\JsonLib.pdb
+C:\Users\User\Desktop\Новая папка\asp\Lab6\JsonLib\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Desktop\Новая папка\asp\Lab6\JsonLib\bin\Debug\PhoneDictionaryLib.dll
+C:\Users\User\Desktop\Новая папка\asp\Lab6\JsonLib\bin\Debug\PhoneDictionaryLib.pdb
+C:\Users\User\Desktop\Новая папка\asp\Lab6\JsonLib\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\Desktop\Новая папка\asp\Lab6\JsonLib\obj\Debug\JsonLib.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Новая папка\asp\Lab6\JsonLib\obj\Debug\JsonLib.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Новая папка\asp\Lab6\JsonLib\obj\Debug\JsonLib.csproj.CopyComplete
+C:\Users\User\Desktop\Новая папка\asp\Lab6\JsonLib\obj\Debug\JsonLib.dll
+C:\Users\User\Desktop\Новая папка\asp\Lab6\JsonLib\obj\Debug\JsonLib.pdb

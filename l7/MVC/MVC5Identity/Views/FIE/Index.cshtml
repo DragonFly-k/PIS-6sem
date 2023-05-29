@@ -1,0 +1,17 @@
+﻿@{
+    ViewBag.Title = "FIE/Index";
+}
+
+<h2>FIE/Index</h2>
+<br/>
+
+<div>
+        @if (User.IsInRole("Employer"))
+        {
+            @Html.ActionLink("FIE/FIE_TM", "FIE_TM") <br />
+            @Html.ActionLink("FIE/FIE_UR", "FIE_UR") <br />
+            @Html.ActionLink("FIE/FIE_UP", "FIE_UP") <br />
+        }
+
+        @Html.ActionLink("BSTU/Index", "Index", "BSTU") <br />
+</div>

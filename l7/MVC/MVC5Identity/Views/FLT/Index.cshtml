@@ -1,0 +1,22 @@
+﻿@{
+    ViewBag.Title = "FLT/Index";
+}
+
+<h2>FLT/Index</h2>
+<br/>
+
+<div>
+
+    @if (User.IsInRole("Employer"))
+    {
+        @Html.ActionLink("FLT/FLT_LV", "FLT_LV")
+        <br/>
+        @Html.ActionLink("FLT/FLT_LU", "FLT_LU")
+        <br/>
+        @Html.ActionLink("FLT/FLT_LZ", "FLT_LZ")
+        <br/>
+    }
+
+
+    @Html.ActionLink("BSTU/Index", "Index", "BSTU") <br/>
+</div>
